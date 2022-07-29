@@ -24,8 +24,13 @@
 
 [![Dilesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Nikeex&&theme=xcode)](https://github.com/Nikeex)
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikeex&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Nikeex"/><br></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikeex&show_icons=true&locale=en&theme=tokyonight" alt="Nikeex" /><br></p>
 
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikeex&&theme=tokyonight" alt="Nikeex" /></p>
+<p>  
+  <img src = "https://github-readme-stats.vercel.app/api?username=Nikeex&show_icons=true&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Nikeex&theme=dark&hide_border=true" width = 400>
+  
+ </p>
+
+
+
